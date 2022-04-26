@@ -29,7 +29,7 @@ Organizations below are **officially** using Flippy. Please send a PR with your 
 ## Collaboration and Communication -->
 
 ## Contributing
-Refer to [Contributing doc](./Docs/CONTRIBUTING.md)
+Refer to [Contributing doc](./Docs/contributing.md)
 
 <!-- ## Release Cadence
 
